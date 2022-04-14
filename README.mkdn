@@ -1,0 +1,8 @@
+Scripts
+=========
+
+OnePlus 3/3T and other ultra-legacy devices still using 3.x based kernel can use this script
+
+* `pick_commits.sh`: Builds any android ROM for any ultra-legacy device
+
+__NOTE:__ Don't forget to `chmod a+x` the script before running it!
