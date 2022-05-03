@@ -1,5 +1,7 @@
 #!/bin/bash
 
+mkdir los&&cd los
+
 rm -rf .repo/manifests
 
 repo init -u https://github.com/LineageOS/android.git -b lineage-19.1
